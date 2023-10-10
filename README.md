@@ -1,3 +1,13 @@
-Hello, my name is Emory and I'm currently a Sophomore at Cal Poly SLO majoring in Computer Engineering.
-    I'm currently taking courses on digital design and project-based object-oriented programming and I've worked with Python and Java.
-    I'm interested in gaining more experience with practical projects and expanding my skillset.
+# Emory Jendretzke
+
+I'm a senior computer engineering student at California Polytechnic State Institute, with a strong focus on hardware and software development.
+
+### Education
+- **Bachelor of Science in Computer Engineering**
+  - California Polytechnic State Institute
+  - Expected Graduation: Class of 2024
+  - GPA: 3.53
+
+### Technical Skills
+- Languages: C, System Verilog, Python, Java, RISC-V Assembly
+- Tools: WSL, Vivado, STM32CubeIDE, Oscilloscopes
