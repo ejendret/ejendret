@@ -1,3 +1,5 @@
 # Emory Jendretzke
 
-Cal Poly Computer Engineering Senior.
+Technical Solutions Engineer at Epic Systems
+
+BS in Computer Engineering from CalPoly SLO
